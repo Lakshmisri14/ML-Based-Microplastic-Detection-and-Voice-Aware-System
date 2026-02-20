@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+venv/
+microplastic_detector.h5
