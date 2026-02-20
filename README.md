@@ -148,3 +148,19 @@ This project demonstrates the practical application of **machine learning and co
 
 ---
 
+## 📦 Model File
+
+> **Note:** The trained model file (`microplastic_model.h5`) is not included in this repository due to GitHub's 100MB file size limit.
+
+To generate the model locally, run:
+
+```bash
+python src/train.py
+```
+
+After training completes, the model will be saved as:
+
+```bash
+microplastic_model.h5
+```
+
